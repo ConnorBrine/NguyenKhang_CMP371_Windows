@@ -1,0 +1,14 @@
+O:\Code\C# Github\Lesson2\Exercise6\bin\Debug\net6.0\Exercise6.exe
+O:\Code\C# Github\Lesson2\Exercise6\bin\Debug\net6.0\Exercise6.deps.json
+O:\Code\C# Github\Lesson2\Exercise6\bin\Debug\net6.0\Exercise6.runtimeconfig.json
+O:\Code\C# Github\Lesson2\Exercise6\bin\Debug\net6.0\Exercise6.dll
+O:\Code\C# Github\Lesson2\Exercise6\bin\Debug\net6.0\Exercise6.pdb
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\Exercise6.AssemblyInfoInputs.cache
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\Exercise6.AssemblyInfo.cs
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\Exercise6.csproj.CoreCompileInputs.cache
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\Exercise6.dll
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\refint\Exercise6.dll
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\Exercise6.pdb
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\Exercise6.genruntimeconfig.cache
+O:\Code\C# Github\Lesson2\Exercise6\obj\Debug\net6.0\ref\Exercise6.dll

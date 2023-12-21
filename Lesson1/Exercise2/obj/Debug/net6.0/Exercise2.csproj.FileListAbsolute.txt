@@ -1,0 +1,14 @@
+O:\Code\Visual Studio 2022 - Code\Exercise2\bin\Debug\net6.0\Exercise2.exe
+O:\Code\Visual Studio 2022 - Code\Exercise2\bin\Debug\net6.0\Exercise2.deps.json
+O:\Code\Visual Studio 2022 - Code\Exercise2\bin\Debug\net6.0\Exercise2.runtimeconfig.json
+O:\Code\Visual Studio 2022 - Code\Exercise2\bin\Debug\net6.0\Exercise2.dll
+O:\Code\Visual Studio 2022 - Code\Exercise2\bin\Debug\net6.0\Exercise2.pdb
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfoInputs.cache
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfo.cs
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\Exercise2.csproj.CoreCompileInputs.cache
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\Exercise2.dll
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\refint\Exercise2.dll
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\Exercise2.pdb
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\Exercise2.genruntimeconfig.cache
+O:\Code\Visual Studio 2022 - Code\Exercise2\obj\Debug\net6.0\ref\Exercise2.dll
